@@ -1,0 +1,60 @@
+﻿body
+{
+    background-color:aliceblue;
+    
+}
+
+h1{
+color:darkred;
+    text-align:center;
+    zoom:200%;
+    margin:0;
+    padding:0;
+}
+
+
+ul {
+    
+    margin: 0;
+    
+}
+
+li a {
+    background-color: white;
+    padding: 20px;
+    display: block;
+    margin: 25px;
+    border-radius: 20px;
+    color: darkblue;
+}
+
+.navbar {
+    padding: 1%;
+    color: white;
+    background-color: lightslategray;
+    width: 15%;
+    height: 500px;
+    float: left;
+    list-style-type: none;
+}
+
+h2 {
+    
+    color: darkred;
+    text-decoration-line: underline;
+}
+
+.line {
+    list-style-type: none;
+}
+
+#boxcolor{
+    background-color:lightslategray;
+    padding:1%;
+    
+}
+
+h3{
+    color:darkslateblue;
+   
+}
