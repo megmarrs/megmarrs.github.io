@@ -7,7 +7,7 @@
 h1{
 color:darkred;
     text-align:center;
-    zoom:200%;
+    zoom:250%;
     margin:0;
     padding:0;
 }
@@ -33,7 +33,7 @@ li a {
     color: white;
     background-color: lightslategray;
     width: 15%;
-    height: 500px;
+    height: 1000px;
     float: left;
     list-style-type: none;
 }
@@ -57,4 +57,14 @@ h2 {
 h3{
     color:darkslateblue;
    
+}
+
+.center{
+    zoom:200%;
+    text-align:center;
+}
+
+#space{
+    width: 79%;
+    float:right;
 }
